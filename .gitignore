@@ -1,0 +1,7 @@
+/build/
+/bin_vl/
+*.gguf
+*.bin
+__pycache__/
+*.pyc
+.env
